@@ -1,9 +1,19 @@
-
-![jongkwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jijongkwon&show_icons=true&theme=radical)
+## JI JONG KWON
 
 <br>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wlwhdrnjs1)](https://solved.ac/wlwhdrnjs1/)
+
+<br>
+
+### 📖 Language
+
+![Java](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
+
+
 
 <!--
 ### 📫 Contacts
