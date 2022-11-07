@@ -1,8 +1,6 @@
-### Hi there 👋
 
-## LEE JUWON 🌱
-<br>
 ![jongkwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jijongkwon&show_icons=true&theme=radical)
+
 <!--
 ### 📫 Contacts
 **casperWebmon/casperWebmon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
