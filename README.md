@@ -1,13 +1,11 @@
-## JI JONG KWON
-
-<div >
+### JI JONG KWON
 - email : help3451@naver.com
 
-## Experinces
-SSAFY_11th (2024.01 ~ ing)
+### Experinces
+- SSAFY_11th (2024.01 ~ ing)
 
 
-## Tech Stack⚒
+### Tech Stack
 #### used as the main
 
 <p>
@@ -28,9 +26,6 @@ SSAFY_11th (2024.01 ~ ing)
 </p>
 
 
-## Solved.ac
+### Solved.ac
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wlwhdrnjs1)](https://solved.ac/wlwhdrnjs1/)
-
-
-</div>
