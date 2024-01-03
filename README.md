@@ -1,27 +1,21 @@
 ## JI JONG KWON
 
-<br>
+<div >
+- email : help3451@naver.com
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wlwhdrnjs1)](https://solved.ac/wlwhdrnjs1/)
+## Experinces
+SSAFY_11th (2024.01 ~ ing)
 
-<br>
 
-
-<p>
-    <Strong>⚒️Tech Stack⚒️</Strong><br><br>
-    💡used as the main
-</p>
+## Tech Stack⚒
+#### used as the main
 
 <p>
     <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
     <img src="https://img.shields.io/badge/Java-1572B6?style=for-the-badge&logo=java&logoColor=white">
 </p>
 
-<br>
-
-<p>
-    💡used at least once
-</p>
+#### used at least once
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
@@ -34,18 +28,9 @@
 </p>
 
 
-<!--
-### 📫 Contacts
-**casperWebmon/casperWebmon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Solved.ac
 
-Here are some ideas to get you started:
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wlwhdrnjs1)](https://solved.ac/wlwhdrnjs1/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+</div>
