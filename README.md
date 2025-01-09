@@ -2,7 +2,7 @@
 - email : help3451@naver.com
 
 ### Experinces
-- SSAFY_11th (2024.01 ~ ing)
+- SSAFY_11th (2024.01 ~ 2024.12)
 
 
 ### Tech Stack
